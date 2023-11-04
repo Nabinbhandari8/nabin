@@ -33,4 +33,13 @@ h3 {
   margin-left: auto;
   margin-right: auto;
 }
+@media screen and ( max-width:600px)
+ {
+  h1{
+      font-size: 36px;
+      line-height: 50px;
+
+  }
+  
+}
   
