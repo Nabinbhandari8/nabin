@@ -8,10 +8,29 @@ h3 {
     text-align: start;
 }
 .ngk{
-    background-image: url("hi.jpg");
+    background-image: url("ww.jpg");
   }
   #kk{
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
+.tt{
+  background-image: url(qq.jpg);
+} 
+#oo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#pp{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#ll{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+  
